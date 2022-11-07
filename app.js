@@ -26,7 +26,7 @@ btn2.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Drum Kit's");
+		tg.MainButton.setText("Preset's");
 		item = "2";
 		tg.MainButton.show();
 	}
